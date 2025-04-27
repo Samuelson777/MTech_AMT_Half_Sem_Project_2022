@@ -64,3 +64,6 @@ The project successfully demonstrated that AA5083(O) alloy can be effectively re
 1. Kumar, J. P., Smart, D. R., & Jones, E. C. (2019). Experimental Evaluation of Mechanical, Wear and Corrosion properties of AA5083/Graphite Metal Matrix Composite Prepared using Compocasting Process.
 2. Alam, S. N., & Kumar, L. (2016). Mechanical properties of aluminium based metal matrix composites reinforced with graphite nanoplatelets.
 3. Tirth, V., El-Kashif, E., Hussein, H. M. A., & Hoziefa, W. (2021). Characterization and mechanical properties of stir-rheo-squeeze cast AA5083/MWCNTs/GNs hybrid nanocomposites developed using a novel preform-billet method.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/MTech_AMT_Half_Sem_Project_2022/blob/main/LICENSE) file for details.
